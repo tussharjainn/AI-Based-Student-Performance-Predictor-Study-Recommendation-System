@@ -1,0 +1,2 @@
+# AI-Based-Student-Performance-Predictor-Study-Recommendation-System
+This project predicts a student's chances of passing or failing based on factors like study time, attendance, completed assignments, and previous grades. The system looks at input data and makes predictions using a supervised learning method known as logistic regression. It also provides simple study tips to help students improve their grades
